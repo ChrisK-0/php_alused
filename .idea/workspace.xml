@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d24d1fed-30c5-4de3-a476-927473cd11c0" name="Default Changelist" comment="ül 2 matemaatika" />
+    <list default="true" id="d24d1fed-30c5-4de3-a476-927473cd11c0" name="Default Changelist" comment="ül 2 matemaatika">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +30,15 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
@@ -38,6 +48,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/PhpstormProjects2/php_alused/yl3" />
@@ -51,15 +62,19 @@
       <recent name="C:\Users\Chris\PhpstormProjects\php_alused\ülesanded" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.yl2.php">
+  <component name="RunManager" selected="PHP Script.yl3.php">
     <configuration name="1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ülesanded/1.php">
       <method v="2" />
     </configuration>
     <configuration name="yl2.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$USER_HOME$/PhpstormProjects2/php_alused/ülesanded/yl2.php">
       <method v="2" />
     </configuration>
+    <configuration name="yl3.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$USER_HOME$/PhpstormProjects2/php_alused/ülesanded/yl3.php">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.yl3.php" />
         <item itemvalue="PHP Script.yl2.php" />
         <item itemvalue="PHP Script.1.php" />
       </list>
@@ -73,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606158859851</updated>
-      <workItem from="1606158860945" duration="7509000" />
+      <workItem from="1606158860945" duration="21614000" />
     </task>
     <task id="LOCAL−00001" summary="ül 1 muutujad">
       <created>1606201824117</created>
@@ -87,7 +102,19 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1606203977215</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="ül 2 matemaatika">
+      <created>1606380503534</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1606380503534</updated>
+    </task>
+    <task id="LOCAL−00004" summary="ül 2 matemaatika">
+      <created>1606380608623</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1606380608623</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +137,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="ül 2 matemaatika" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1191" y="407" key="#Notifications" timestamp="1606809794689">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1191" y="407" key="#Notifications/0.0.1920.1160@0.0.1920.1160" timestamp="1606809794689" />
     <state x="667" y="163" key="#PHP" timestamp="1606158950123">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -118,22 +149,26 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="588" y="99" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1606200136630" />
-    <state width="914" height="266" key="GridCell.Tab.0.bottom" timestamp="1606380116068">
+    <state x="1053" y="100" width="774" height="967" key="DiffContextDialog" timestamp="1606380677804">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="914" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1606380116068" />
-    <state width="914" height="266" key="GridCell.Tab.0.center" timestamp="1606380116068">
+    <state x="1053" y="100" width="774" height="967" key="DiffContextDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1606380677804" />
+    <state width="914" height="266" key="GridCell.Tab.0.bottom" timestamp="1606806665892">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="914" height="266" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1606380116068" />
-    <state width="914" height="266" key="GridCell.Tab.0.left" timestamp="1606380116068">
+    <state width="914" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1606806665892" />
+    <state width="914" height="266" key="GridCell.Tab.0.center" timestamp="1606806665892">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="914" height="266" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1606380116068" />
-    <state width="914" height="266" key="GridCell.Tab.0.right" timestamp="1606380116068">
+    <state width="914" height="266" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1606806665892" />
+    <state width="914" height="266" key="GridCell.Tab.0.left" timestamp="1606806665892">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="914" height="266" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1606380116068" />
+    <state width="914" height="266" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1606806665892" />
+    <state width="914" height="266" key="GridCell.Tab.0.right" timestamp="1606806665892">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="914" height="266" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1606806665892" />
     <state width="914" height="395" key="GridCell.Tab.1.bottom" timestamp="1606203253586">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -150,16 +185,16 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="914" height="395" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1606203253586" />
-    <state x="794" y="494" key="NewPhpFileDialog" timestamp="1606379820406">
+    <state x="794" y="494" key="NewPhpFileDialog" timestamp="1606383412626">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606158873081" />
-    <state x="794" y="494" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1606379820406" />
-    <state x="552" y="282" key="Vcs.Push.Dialog.v2" timestamp="1606204107397">
+    <state x="794" y="494" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1606383412626" />
+    <state x="552" y="282" key="Vcs.Push.Dialog.v2" timestamp="1606813704512">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606159061719" />
-    <state x="552" y="282" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1606204107397" />
+    <state x="552" y="282" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1606813704512" />
     <state x="780" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606159051463">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
