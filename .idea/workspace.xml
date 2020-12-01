@@ -19,8 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d24d1fed-30c5-4de3-a476-927473cd11c0" name="Default Changelist" comment="ül 2 matemaatika">
+    <list default="true" id="d24d1fed-30c5-4de3-a476-927473cd11c0" name="Default Changelist" comment="ül 4 matemaatika">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ülesanded/1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ülesanded/yl2.php" beforeDir="false" afterPath="$PROJECT_DIR$/ülesanded/yl2.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +40,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="me" />
+      </list>
+    </option>
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -88,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606158859851</updated>
-      <workItem from="1606158860945" duration="21614000" />
+      <workItem from="1606158860945" duration="22523000" />
     </task>
     <task id="LOCAL−00001" summary="ül 1 muutujad">
       <created>1606201824117</created>
@@ -114,7 +121,13 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1606380608623</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="ül 4 matemaatika">
+      <created>1606814191298</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1606814191298</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,9 +147,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ül 1 muutujad" />
     <MESSAGE value="ül 2 matemaatika" />
-    <option name="LAST_COMMIT_MESSAGE" value="ül 2 matemaatika" />
+    <MESSAGE value="ül 4 matemaatika" />
+    <option name="LAST_COMMIT_MESSAGE" value="ül 4 matemaatika" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="390" y="278" key="#Deployment" timestamp="1606814527771">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="390" y="278" key="#Deployment/0.0.1920.1160@0.0.1920.1160" timestamp="1606814527771" />
     <state x="1191" y="407" key="#Notifications" timestamp="1606809794689">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -145,14 +163,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="667" y="163" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1606158950123" />
-    <state x="588" y="99" key="CommitChangelistDialog2" timestamp="1606200136630">
+    <state x="423" y="207" key="CommitChangelistDialog2" timestamp="1606814540546">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="588" y="99" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1606200136630" />
-    <state x="1053" y="100" width="774" height="967" key="DiffContextDialog" timestamp="1606380677804">
+    <state x="423" y="207" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1606814540546" />
+    <state x="1053" y="100" width="774" height="967" key="DiffContextDialog" timestamp="1606814521982">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="1053" y="100" width="774" height="967" key="DiffContextDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1606380677804" />
+    <state x="1053" y="100" width="774" height="967" key="DiffContextDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1606814521982" />
+    <state x="1264" y="485" key="Github.CreateGistDialog" timestamp="1606814211511">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1264" y="485" key="Github.CreateGistDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1606814211511" />
     <state width="914" height="266" key="GridCell.Tab.0.bottom" timestamp="1606806665892">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -190,11 +212,15 @@
     </state>
     <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606158873081" />
     <state x="794" y="494" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1606383412626" />
-    <state x="552" y="282" key="Vcs.Push.Dialog.v2" timestamp="1606813704512">
+    <state x="577" y="322" key="RollbackChangesDialog" timestamp="1606814513928">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="577" y="322" key="RollbackChangesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1606814513928" />
+    <state x="552" y="282" key="Vcs.Push.Dialog.v2" timestamp="1606814794411">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606159061719" />
-    <state x="552" y="282" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1606813704512" />
+    <state x="552" y="282" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1606814794411" />
     <state x="780" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606159051463">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

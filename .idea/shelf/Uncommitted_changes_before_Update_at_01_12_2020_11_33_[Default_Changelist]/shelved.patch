@@ -1,0 +1,175 @@
+Index: ülesanded/1.php
+===================================================================
+--- ülesanded/1.php	(revision 21687eb705bdd069624e732f5b47d40820929073)
++++ ülesanded/1.php	(revision 21687eb705bdd069624e732f5b47d40820929073)
+@@ -1,21 +0,0 @@
+-<?php
+-/*
+-    Muutujad
+-    ül 1
+-    Chris Kottisse
+-    24.11
+-*/
+-$m1 = "Chris";
+-$m2 = 2000;
+-$m3 = "skorpion";
+-$m4 = '“It’s My Life” – Dr. Alban';
+-
+-    echo $m1," on äge ning aastla ",$m2," tegi ta ellu ärkamist ja ",$m3," temast sai. <br>";
+-
+-echo $m4,"<br>","<br>","<br>","<br>","<br>","<br>";
+-
+-echo "(\(\ <br>";
+-echo "( -.-) <br>";
+-echo "o_('')('') <br>";
+-
+-?>
+\ No newline at end of file
+Index: ülesanded/yl2.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?php\r\n\r\n/*\r\n    matemaatika\r\n    ül 2\r\n    Chris Kottisse\r\n    24.11\r\n*/\r\n\r\n$x = 21;\r\n$z = 12;\r\n\r\necho \"$x + $z = \",$x + $z, \"<br>\";\r\necho \"$x + $z = \",$x + $z, '<br>';\r\necho \"$x * $z = \",$x * $z, \"<br>\";\r\necho \"$x / $z = \",$x / $z, \"<br>\";\r\necho \"$x % $z = \",$x % $z, \"<br>\";\r\n\r\n$teiearv = 2;\r\n$convert = $teiearv*1000;\r\n\r\necho \"Teie ARV ON \",$teiearv,'. Kuid teie vastus on ',$convert;\r\n\r\n\r\n?>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ülesanded/yl2.php	(revision 21687eb705bdd069624e732f5b47d40820929073)
++++ ülesanded/yl2.php	(date 1606380436193)
+@@ -10,16 +10,17 @@
+ $x = 21;
+ $z = 12;
+ 
+-echo "$x + $z = ",$x + $z, "<br>";
+ echo "$x + $z = ",$x + $z, '<br>';
+-echo "$x * $z = ",$x * $z, "<br>";
+-echo "$x / $z = ",$x / $z, "<br>";
+-echo "$x % $z = ",$x % $z, "<br>";
++echo "$x + $z = ",$x + $z, '<br>';
++echo "$x * $z = ",$x * $z, '<br>';
++echo "$x / $z = ",$x / $z, '<br>';
++echo "$x % $z = ",$x % $z, '<br>';
+ 
+ $teiearv = 2;
+-$convert = $teiearv*1000;
++$convert1 = $teiearv*10;
++$convert2 = $convert1*100;
+ 
+-echo "Teie ARV ON ",$teiearv,'. Kuid teie vastus on ',$convert;
++echo "Teie ARV ON ",$teiearv,'. Kuid teie vastus on ',$convert2;
+ 
+ 
+ ?>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"d24d1fed-30c5-4de3-a476-927473cd11c0\" name=\"Default Changelist\" comment=\"ül 2 matemaatika\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\">\r\n    <execution />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PUSH_AUTO_UPDATE\" value=\"true\" />\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"PhpWorkspaceProjectConfiguration\" interpreter_name=\"PHP\" />\r\n  <component name=\"ProjectId\" id=\"1khhijlkiHilJakAmG669NDEkGJ\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$USER_HOME$/PhpstormProjects2/php_alused/yl3\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Chris\\PhpstormProjects2\\php_alused\\yl3\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Chris\\PhpstormProjects\\php_alused\\ülesanded\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"PHP Script.yl3.php\">\r\n    <configuration name=\"1.php\" type=\"PhpLocalRunConfigurationType\" factoryName=\"PHP Console\" temporary=\"true\" path=\"$PROJECT_DIR$/ülesanded/1.php\">\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"yl2.php\" type=\"PhpLocalRunConfigurationType\" factoryName=\"PHP Console\" temporary=\"true\" path=\"$USER_HOME$/PhpstormProjects2/php_alused/ülesanded/yl2.php\">\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"yl3.php\" type=\"PhpLocalRunConfigurationType\" factoryName=\"PHP Console\" temporary=\"true\" path=\"$USER_HOME$/PhpstormProjects2/php_alused/ülesanded/yl3.php\">\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"PHP Script.yl3.php\" />\r\n        <item itemvalue=\"PHP Script.yl2.php\" />\r\n        <item itemvalue=\"PHP Script.1.php\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"d24d1fed-30c5-4de3-a476-927473cd11c0\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1606158859851</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1606158859851</updated>\r\n      <workItem from=\"1606158860945\" duration=\"21614000\" />\r\n    </task>\r\n    <task id=\"LOCAL−00001\" summary=\"ül 1 muutujad\">\r\n      <created>1606201824117</created>\r\n      <option name=\"number\" value=\"LOCAL−00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00001\" />\r\n      <updated>1606201824117</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00002\" summary=\"ül 2 matemaatika\">\r\n      <created>1606203977215</created>\r\n      <option name=\"number\" value=\"LOCAL−00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00002\" />\r\n      <updated>1606203977215</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00003\" summary=\"ül 2 matemaatika\">\r\n      <created>1606380503534</created>\r\n      <option name=\"number\" value=\"LOCAL−00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00003\" />\r\n      <updated>1606380503534</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00004\" summary=\"ül 2 matemaatika\">\r\n      <created>1606380608623</created>\r\n      <option name=\"number\" value=\"LOCAL−00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00004\" />\r\n      <updated>1606380608623</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"ül 1 muutujad\" />\r\n    <MESSAGE value=\"ül 2 matemaatika\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"ül 2 matemaatika\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"1191\" y=\"407\" key=\"#Notifications\" timestamp=\"1606809794689\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1160\" />\r\n    </state>\r\n    <state x=\"1191\" y=\"407\" key=\"#Notifications/0.0.1920.1160@0.0.1920.1160\" timestamp=\"1606809794689\" />\r\n    <state x=\"667\" y=\"163\" key=\"#PHP\" timestamp=\"1606158950123\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"667\" y=\"163\" key=\"#PHP/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1606158950123\" />\r\n    <state x=\"588\" y=\"99\" key=\"CommitChangelistDialog2\" timestamp=\"1606200136630\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1160\" />\r\n    </state>\r\n    <state x=\"588\" y=\"99\" key=\"CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160\" timestamp=\"1606200136630\" />\r\n    <state x=\"1053\" y=\"100\" width=\"774\" height=\"967\" key=\"DiffContextDialog\" timestamp=\"1606380677804\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1160\" />\r\n    </state>\r\n    <state x=\"1053\" y=\"100\" width=\"774\" height=\"967\" key=\"DiffContextDialog/0.0.1920.1160@0.0.1920.1160\" timestamp=\"1606380677804\" />\r\n    <state width=\"914\" height=\"266\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1606806665892\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1160\" />\r\n    </state>\r\n    <state width=\"914\" height=\"266\" key=\"GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160\" timestamp=\"1606806665892\" />\r\n    <state width=\"914\" height=\"266\" key=\"GridCell.Tab.0.center\" timestamp=\"1606806665892\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1160\" />\r\n    </state>\r\n    <state width=\"914\" height=\"266\" key=\"GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160\" timestamp=\"1606806665892\" />\r\n    <state width=\"914\" height=\"266\" key=\"GridCell.Tab.0.left\" timestamp=\"1606806665892\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1160\" />\r\n    </state>\r\n    <state width=\"914\" height=\"266\" key=\"GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160\" timestamp=\"1606806665892\" />\r\n    <state width=\"914\" height=\"266\" key=\"GridCell.Tab.0.right\" timestamp=\"1606806665892\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1160\" />\r\n    </state>\r\n    <state width=\"914\" height=\"266\" key=\"GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160\" timestamp=\"1606806665892\" />\r\n    <state width=\"914\" height=\"395\" key=\"GridCell.Tab.1.bottom\" timestamp=\"1606203253586\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1160\" />\r\n    </state>\r\n    <state width=\"914\" height=\"395\" key=\"GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160\" timestamp=\"1606203253586\" />\r\n    <state width=\"914\" height=\"395\" key=\"GridCell.Tab.1.center\" timestamp=\"1606203253586\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1160\" />\r\n    </state>\r\n    <state width=\"914\" height=\"395\" key=\"GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160\" timestamp=\"1606203253586\" />\r\n    <state width=\"914\" height=\"395\" key=\"GridCell.Tab.1.left\" timestamp=\"1606203253586\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1160\" />\r\n    </state>\r\n    <state width=\"914\" height=\"395\" key=\"GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160\" timestamp=\"1606203253586\" />\r\n    <state width=\"914\" height=\"395\" key=\"GridCell.Tab.1.right\" timestamp=\"1606203253586\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1160\" />\r\n    </state>\r\n    <state width=\"914\" height=\"395\" key=\"GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160\" timestamp=\"1606203253586\" />\r\n    <state x=\"794\" y=\"494\" key=\"NewPhpFileDialog\" timestamp=\"1606383412626\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1160\" />\r\n    </state>\r\n    <state x=\"794\" y=\"443\" key=\"NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1606158873081\" />\r\n    <state x=\"794\" y=\"494\" key=\"NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160\" timestamp=\"1606383412626\" />\r\n    <state x=\"552\" y=\"282\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1606813704512\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1160\" />\r\n    </state>\r\n    <state x=\"552\" y=\"253\" key=\"Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1606159061719\" />\r\n    <state x=\"552\" y=\"282\" key=\"Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160\" timestamp=\"1606813704512\" />\r\n    <state x=\"780\" y=\"434\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2\" timestamp=\"1606159051463\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"780\" y=\"434\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1606159051463\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 21687eb705bdd069624e732f5b47d40820929073)
++++ .idea/workspace.xml	(date 1606815041591)
+@@ -19,8 +19,10 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="d24d1fed-30c5-4de3-a476-927473cd11c0" name="Default Changelist" comment="ül 2 matemaatika">
++    <list default="true" id="d24d1fed-30c5-4de3-a476-927473cd11c0" name="Default Changelist" comment="ül 4 matemaatika">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/ülesanded/1.php" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/ülesanded/yl2.php" beforeDir="false" afterPath="$PROJECT_DIR$/ülesanded/yl2.php" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -38,6 +40,11 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <option name="PREVIOUS_COMMIT_AUTHORS">
++      <list>
++        <option value="me" />
++      </list>
++    </option>
+     <option name="PUSH_AUTO_UPDATE" value="true" />
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+@@ -88,7 +95,7 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1606158859851</updated>
+-      <workItem from="1606158860945" duration="21614000" />
++      <workItem from="1606158860945" duration="22523000" />
+     </task>
+     <task id="LOCAL−00001" summary="ül 1 muutujad">
+       <created>1606201824117</created>
+@@ -114,7 +121,13 @@
+       <option name="presentableId" value="LOCAL−00004" />
+       <updated>1606380608623</updated>
+     </task>
+-    <option name="localTasksCounter" value="5" />
++    <task id="LOCAL−00005" summary="ül 4 matemaatika">
++      <created>1606814191298</created>
++      <option name="number" value="LOCAL−00005" />
++      <option name="presentableId" value="LOCAL−00005" />
++      <updated>1606814191298</updated>
++    </task>
++    <option name="localTasksCounter" value="6" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -134,9 +147,14 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="ül 1 muutujad" />
+     <MESSAGE value="ül 2 matemaatika" />
+-    <option name="LAST_COMMIT_MESSAGE" value="ül 2 matemaatika" />
++    <MESSAGE value="ül 4 matemaatika" />
++    <option name="LAST_COMMIT_MESSAGE" value="ül 4 matemaatika" />
+   </component>
+   <component name="WindowStateProjectService">
++    <state x="390" y="278" key="#Deployment" timestamp="1606814527771">
++      <screen x="0" y="0" width="1920" height="1160" />
++    </state>
++    <state x="390" y="278" key="#Deployment/0.0.1920.1160@0.0.1920.1160" timestamp="1606814527771" />
+     <state x="1191" y="407" key="#Notifications" timestamp="1606809794689">
+       <screen x="0" y="0" width="1920" height="1160" />
+     </state>
+@@ -145,14 +163,18 @@
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state x="667" y="163" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1606158950123" />
+-    <state x="588" y="99" key="CommitChangelistDialog2" timestamp="1606200136630">
++    <state x="423" y="207" key="CommitChangelistDialog2" timestamp="1606814540546">
+       <screen x="0" y="0" width="1920" height="1160" />
+     </state>
+-    <state x="588" y="99" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1606200136630" />
+-    <state x="1053" y="100" width="774" height="967" key="DiffContextDialog" timestamp="1606380677804">
++    <state x="423" y="207" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1606814540546" />
++    <state x="1053" y="100" width="774" height="967" key="DiffContextDialog" timestamp="1606814521982">
+       <screen x="0" y="0" width="1920" height="1160" />
+     </state>
+-    <state x="1053" y="100" width="774" height="967" key="DiffContextDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1606380677804" />
++    <state x="1053" y="100" width="774" height="967" key="DiffContextDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1606814521982" />
++    <state x="1264" y="485" key="Github.CreateGistDialog" timestamp="1606814211511">
++      <screen x="0" y="0" width="1920" height="1160" />
++    </state>
++    <state x="1264" y="485" key="Github.CreateGistDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1606814211511" />
+     <state width="914" height="266" key="GridCell.Tab.0.bottom" timestamp="1606806665892">
+       <screen x="0" y="0" width="1920" height="1160" />
+     </state>
+@@ -190,11 +212,15 @@
+     </state>
+     <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606158873081" />
+     <state x="794" y="494" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1606383412626" />
+-    <state x="552" y="282" key="Vcs.Push.Dialog.v2" timestamp="1606813704512">
++    <state x="577" y="322" key="RollbackChangesDialog" timestamp="1606814513928">
++      <screen x="0" y="0" width="1920" height="1160" />
++    </state>
++    <state x="577" y="322" key="RollbackChangesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1606814513928" />
++    <state x="552" y="282" key="Vcs.Push.Dialog.v2" timestamp="1606814794411">
+       <screen x="0" y="0" width="1920" height="1160" />
+     </state>
+     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606159061719" />
+-    <state x="552" y="282" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1606813704512" />
++    <state x="552" y="282" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1606814794411" />
+     <state x="780" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606159051463">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
