@@ -19,10 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d24d1fed-30c5-4de3-a476-927473cd11c0" name="Default Changelist" comment="ül 4 matemaatika">
+    <list default="true" id="d24d1fed-30c5-4de3-a476-927473cd11c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ülesanded/yl5-bootstrap.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ülesanded/1.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ülesanded/yl2.php" beforeDir="false" afterPath="$PROJECT_DIR$/ülesanded/yl2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ülesanded/yl5.php" beforeDir="false" afterPath="$PROJECT_DIR$/ülesanded/yl5.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,12 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1khhijlkiHilJakAmG669NDEkGJ" />
   <component name="ProjectViewState">
@@ -58,7 +64,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/PhpstormProjects2/php_alused/yl3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../xampp/htdocs/php_alused" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -77,8 +84,18 @@
       <method v="2" />
     </configuration>
     <configuration name="yl3.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$USER_HOME$/PhpstormProjects2/php_alused/ülesanded/yl3.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="PHP Script.1.php" />
+      <item itemvalue="PHP Script.yl2.php" />
+      <item itemvalue="PHP Script.yl3.php" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="PHP Script.yl3.php" />
@@ -95,7 +112,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606158859851</updated>
-      <workItem from="1606158860945" duration="22523000" />
+      <workItem from="1606158860945" duration="35531000" />
     </task>
     <task id="LOCAL−00001" summary="ül 1 muutujad">
       <created>1606201824117</created>
@@ -127,7 +144,19 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1606814191298</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="update">
+      <created>1606815321568</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1606815321568</updated>
+    </task>
+    <task id="LOCAL−00007" summary="update">
+      <created>1606815732392</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1606815732392</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +177,8 @@
     <MESSAGE value="ül 1 muutujad" />
     <MESSAGE value="ül 2 matemaatika" />
     <MESSAGE value="ül 4 matemaatika" />
-    <option name="LAST_COMMIT_MESSAGE" value="ül 4 matemaatika" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="390" y="278" key="#Deployment" timestamp="1606814527771">
@@ -163,14 +193,27 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="667" y="163" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1606158950123" />
-    <state x="423" y="207" key="CommitChangelistDialog2" timestamp="1606814540546">
+    <state x="863" y="189" key="#Servers" timestamp="1606912609944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="863" y="189" key="#Servers/0.0.1920.1040@0.0.1920.1040" timestamp="1606912609944" />
+    <state x="737" y="177" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606912628281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="737" y="177" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606912628281" />
+    <state x="423" y="207" key="CommitChangelistDialog2" timestamp="1606815731915">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="423" y="207" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1606814540546" />
+    <state x="423" y="207" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1606815731915" />
     <state x="1053" y="100" width="774" height="967" key="DiffContextDialog" timestamp="1606814521982">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1053" y="100" width="774" height="967" key="DiffContextDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1606814521982" />
+    <state x="1131" y="285" key="FileChooserDialogImpl" timestamp="1606912820310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1131" y="285" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606912820310" />
+    <state x="1508" y="384" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1606816885001" />
     <state x="1264" y="485" key="Github.CreateGistDialog" timestamp="1606814211511">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -207,23 +250,40 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="914" height="395" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1606203253586" />
-    <state x="794" y="494" key="NewPhpFileDialog" timestamp="1606383412626">
+    <state x="794" y="494" key="NewPhpFileDialog" timestamp="1606815658055">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606158873081" />
-    <state x="794" y="494" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1606383412626" />
+    <state x="794" y="494" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1606815658055" />
     <state x="577" y="322" key="RollbackChangesDialog" timestamp="1606814513928">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="577" y="322" key="RollbackChangesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1606814513928" />
-    <state x="552" y="282" key="Vcs.Push.Dialog.v2" timestamp="1606814794411">
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1606912548848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606912548848" />
+    <state x="922" y="204" key="SettingsEditor" timestamp="1606913107374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="204" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606913107374" />
+    <state x="1229" y="274" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1606816942822" />
+    <state x="552" y="282" key="Vcs.Push.Dialog.v2" timestamp="1606815689459">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606159061719" />
-    <state x="552" y="282" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1606814794411" />
+    <state x="552" y="282" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1606815689459" />
     <state x="780" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606159051463">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="780" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606159051463" />
+    <state x="1096" y="244" key="run.anything.popup" timestamp="1606912548849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1096" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606912548849" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1606915454908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606915454908" />
   </component>
 </project>
