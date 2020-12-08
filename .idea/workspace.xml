@@ -20,9 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d24d1fed-30c5-4de3-a476-927473cd11c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ülesanded/yl5-bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ülesanded/yl7-bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ülesanded/yl7.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ülesanded/yl5.php" beforeDir="false" afterPath="$PROJECT_DIR$/ülesanded/yl5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ülesanded/yl3.php" beforeDir="false" afterPath="$PROJECT_DIR$/ülesanded/yl3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ülesanded/yl4.php" beforeDir="false" afterPath="$PROJECT_DIR$/ülesanded/yl4.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +66,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../xampp/htdocs/php_alused" />
     <property name="settings.editor.selected.configurable" value="web.server" />
@@ -112,7 +119,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606158859851</updated>
-      <workItem from="1606158860945" duration="35531000" />
+      <workItem from="1606158860945" duration="47565000" />
     </task>
     <task id="LOCAL−00001" summary="ül 1 muutujad">
       <created>1606201824117</created>
@@ -156,7 +163,19 @@
       <option name="presentableId" value="LOCAL−00007" />
       <updated>1606815732392</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL−00008" summary="update">
+      <created>1607338909116</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1607338909116</updated>
+    </task>
+    <task id="LOCAL−00009" summary="yl 6 lisatud">
+      <created>1607345001469</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1607345001469</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,7 +197,8 @@
     <MESSAGE value="ül 2 matemaatika" />
     <MESSAGE value="ül 4 matemaatika" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="yl 6 lisatud" />
+    <option name="LAST_COMMIT_MESSAGE" value="yl 6 lisatud" />
   </component>
   <component name="WindowStateProjectService">
     <state x="390" y="278" key="#Deployment" timestamp="1606814527771">
@@ -201,9 +221,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="737" y="177" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606912628281" />
-    <state x="423" y="207" key="CommitChangelistDialog2" timestamp="1606815731915">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state x="423" y="186" key="CommitChangelistDialog2" timestamp="1607345000927">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="423" y="186" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607345000927" />
     <state x="423" y="207" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1606815731915" />
     <state x="1053" y="100" width="774" height="967" key="DiffContextDialog" timestamp="1606814521982">
       <screen x="0" y="0" width="1920" height="1160" />
@@ -250,11 +271,11 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="914" height="395" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1606203253586" />
-    <state x="794" y="494" key="NewPhpFileDialog" timestamp="1606815658055">
+    <state x="794" y="494" key="NewPhpFileDialog" timestamp="1607415369351">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606158873081" />
-    <state x="794" y="494" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1606815658055" />
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607338927695" />
+    <state x="794" y="494" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1607415369351" />
     <state x="577" y="322" key="RollbackChangesDialog" timestamp="1606814513928">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -268,10 +289,10 @@
     </state>
     <state x="922" y="204" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606913107374" />
     <state x="1229" y="274" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1606816942822" />
-    <state x="552" y="282" key="Vcs.Push.Dialog.v2" timestamp="1606815689459">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607344983699">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606159061719" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607344983699" />
     <state x="552" y="282" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1606815689459" />
     <state x="780" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606159051463">
       <screen x="0" y="0" width="1920" height="1040" />

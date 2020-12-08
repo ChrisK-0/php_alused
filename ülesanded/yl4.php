@@ -1,7 +1,7 @@
 <?php
 /*
     matemaatika
-    ül 2
+    ül 4
     Chris Kottisse
     26.11
     Faili saab testida: yl4-bootstrap.html locali lahti teha, andmed sisestada

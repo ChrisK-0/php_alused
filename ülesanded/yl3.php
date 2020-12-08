@@ -1,7 +1,7 @@
 <?php
 /*
     matemaatika
-    ül 2
+    ül 3
     Chris Kottisse
     26.11
     Faili saab testida: tellimine.html locali lahti teha, andmed sisestada
